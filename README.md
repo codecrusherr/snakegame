@@ -12,3 +12,5 @@ Use the arrow keys or WASD to control the snake. The objective is to eat as many
 
 # Acknowledgments
 This program was inspired by the classic Snake game and uses the SFML library for graphics.
+
+It was made to practice and learn OOP for a class assignment. 
